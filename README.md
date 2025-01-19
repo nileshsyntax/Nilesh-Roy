@@ -2,6 +2,7 @@
 - 👀 I’m interested in Creative Web Development, MERN Stack, UI/UX and Web3
 - 🌱 I’m currently learning JavaScript
 - 😄 Pronouns: he/him
+- Right now Building a skill tracker app
 
 
 <!---
