@@ -1,8 +1,8 @@
-- 👋 Hi, I’m Nilesh Roy (@nileshroy200)
-- 👀 I’m interested in Creative Web Development, MERN Stack, UI/UX and Web3
-- 🌱 I’m currently learning JavaScript
-- ✍ Focusing on Writing
-- 😄 Pronouns: he/him
+👋 Hi, I’m Nilesh Roy (@nileshroy200)
+👀 I’m interested in Creative Web Development, MERN Stack, UI/UX and Web3
+🌱 I’m currently learning JavaScript
+✍ Focusing on Writing
+😄 Pronouns: he/him
 
 <!---
 - 💞️ I’m looking to collaborate on ...
