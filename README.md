@@ -1,6 +1,5 @@
 👋 Hi, I’m Nilesh Roy. Highly focusing on Creative Web Development, MERN Stack, UI/UX.
-Currently learning HTML, CSS and JavaScript, beside focusing on writing skills
-Pronouns: he/him  
+Currently learning HTML, CSS and JavaScript, beside focusing on my writing skills.
 
 <!---
 - 💞️ I’m looking to collaborate on ...
